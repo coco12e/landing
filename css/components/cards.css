@@ -1,0 +1,14 @@
+.card-trip {
+  position: relative; /* Indispensable pour l'avatar */
+  background: white;
+  border: 1px solid #EAEAEA;
+}
+
+.card-trip-user {
+  position: absolute;
+  right: 16px;
+  top: 140px; /* Ajuste selon la hauteur de ton image */
+  width: 40px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
